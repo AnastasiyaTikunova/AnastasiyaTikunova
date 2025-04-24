@@ -18,6 +18,6 @@
 - Break into the tech industry with my first internship
 - Connect with developers who love to learn deeply and share their knowledge
 
-📫 Let’s connect on [LinkedIn](www.linkedin.com/in/anastasiya-tikunova), [LeetCode](https://leetcode.com/u/nastya_tikunova/) and grow together!
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/anastasiya-tikunova/), [LeetCode](https://leetcode.com/u/nastya_tikunova/) and grow together!
 
 #python #ai #programming #studentdeveloper #cleanCode #mathintech #learningbydoing
